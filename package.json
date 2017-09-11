@@ -1,0 +1,18 @@
+{
+  "name": "survival",
+  "version": "1.0.0",
+  "description": "A phaser survival game :)",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1"
+  },
+  "devDependencies": {
+    "gulp-livereload": "^3.8.1"
+  },
+  "scripts": {
+    "test": "watch"
+  },
+  "author": "Pierre MAR",
+  "license": "ISC"
+}
